@@ -1,0 +1,27 @@
+#projects {
+    padding: 2rem;
+}
+
+#projects h2 {
+    font-size: 1.75rem;
+    color: #333;
+}
+
+#projects ul {
+    list-style: none;
+    padding: 0;
+}
+
+#projects ul li {
+    margin-bottom: 1.5rem;
+}
+
+#projects h3 {
+    font-size: 1.25rem;
+    color: #444;
+}
+
+#projects p {
+    font-size: 1rem;
+    color: #555;
+}

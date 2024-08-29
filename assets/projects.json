@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Autonomous Lawnmower",
+        "description": "A smart lawnmower that can navigate and mow your lawn autonomously."
+    },
+    {
+        "title": "Report Card Application",
+        "description": "An application for generating and managing student report cards using Spring Boot."
+    }
+]
